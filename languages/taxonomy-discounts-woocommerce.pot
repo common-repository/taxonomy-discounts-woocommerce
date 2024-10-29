@@ -1,0 +1,345 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Taxonomy / Term based Discounts for WooCommerce\n"
+"POT-Creation-Date: 2024-08-28 13:24+0100\n"
+"PO-Revision-Date: 2016-03-22 11:46+0000\n"
+"Last-Translator: \n"
+"Language-Team: Webdados <info@webdados.pt>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:182
+#: includes/class-wc-taxonomy-discounts-webdados.php:1173
+msgid "Taxonomy/Term and Role based Discounts for WooCommerce"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:183
+msgid "Taxonomy Discounts"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:199
+msgid "Are you sure you want to permanently delete this discount rule?"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:303
+msgid "all users"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:304
+msgid "logged-in users"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:329
+msgid "Percentage"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:332
+msgid "Buy x get y free"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1098
+#, php-format
+msgid ""
+"<span class=\"tdw_discount_information_percentage\">%d%%</span> discount"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1101
+#, php-format
+msgid ""
+"From <span class=\"tdw_discount_information_min_qty\">%1$d</span> bought, "
+"<span class=\"tdw_discount_information_percentage\">%1$d%%</span> discount"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1109
+#, php-format
+msgid ""
+"For each <span class=\"tdw_discount_information_qty_bought\">%1$s</span> "
+"bought <span class=\"tdw_discount_information_qty_free\">%2$s</span> is "
+"free"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1178
+msgid "Rate this plugin on WordPress.org"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1181
+#, php-format
+msgid "Check out our other %sfree%s and %spremium plugins%s"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1189
+msgid "Buy the PRO add-on"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1197
+msgid "PRO add-on features"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1199
+msgid ""
+"\"Discount Tag\" custom taxonomy if you don't want to use Categories, Tags "
+"or any other existing product taxonomy"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1200
+msgid "Set maximum amount of free items when using BOGO discounts"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1201
+msgid "Replace sale badge with discount percentage"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1202
+msgid "Show discount information (percentage and dates) on the product loop"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1203
+msgid ""
+"Show discount information (percentage and dates) on the product single page"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1204
+msgid ""
+"\"Stop - no discount\" rule that makes sure products from specific "
+"taxonomy terms never have a discount applied, even if there are other "
+"rules that will apply for other product taxonomy terms"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1205
+msgid "Exclude products already on sale from the discount rule"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1206
+msgid "Disable shipping methods based on cart items applied rules"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1207
+msgid "Set discount rules for non-logged-in users"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1209
+msgid "Developer mode"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1211
+msgid "Set unique ID per discount rule for identification on custom code"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1212
+msgid "More to come..."
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1215
+msgid "Technical support"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1217
+msgid "Buy now"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1233
+msgid "Add new Taxonomy/Term based discount rule:"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1245
+#, php-format
+msgid "Currently adding rules in %s"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1249
+msgid ""
+"If you want the discount to be applied to all languages, you need to "
+"create rules for each term translation"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1258
+#: includes/class-wc-taxonomy-discounts-webdados.php:1425
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1261
+#: includes/class-wc-taxonomy-discounts-webdados.php:1291
+#: includes/class-wc-taxonomy-discounts-webdados.php:1640
+msgid "choose"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1282
+#: includes/class-wc-taxonomy-discounts-webdados.php:1426
+msgid "User role"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1288
+msgid "Discount type"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1300
+#: includes/class-wc-taxonomy-discounts-webdados.php:1561
+msgid "Min. Qtt."
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1300
+#: includes/class-wc-taxonomy-discounts-webdados.php:1427
+#: includes/class-wc-taxonomy-discounts-webdados.php:1563
+msgid "Discount"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1300
+msgid "Aggregate variations"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1308
+#: includes/class-wc-taxonomy-discounts-webdados.php:1337
+#: includes/class-wc-taxonomy-discounts-webdados.php:1350
+msgid "No"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1309
+#: includes/class-wc-taxonomy-discounts-webdados.php:1336
+#: includes/class-wc-taxonomy-discounts-webdados.php:1349
+msgid "Yes"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1314
+#: includes/class-wc-taxonomy-discounts-webdados.php:1517
+#, php-format
+msgid "For each <strong>%s</strong> bought <strong>%s</strong> is free"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1328
+#: includes/class-wc-taxonomy-discounts-webdados.php:1423
+msgid "Priority"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1332
+#: includes/class-wc-taxonomy-discounts-webdados.php:1428
+msgid "Disable extra coupon discounts"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1333
+msgid "Disable coupons"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1346
+#: includes/class-wc-taxonomy-discounts-webdados.php:1424
+msgid "Active"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1354
+#: includes/class-wc-taxonomy-discounts-webdados.php:1429
+msgid "From"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1356
+#: includes/class-wc-taxonomy-discounts-webdados.php:1362
+#: includes/class-wc-taxonomy-discounts-webdados.php:1592
+#: includes/class-wc-taxonomy-discounts-webdados.php:1596
+msgid "yyyy-mm-dd"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1360
+#: includes/class-wc-taxonomy-discounts-webdados.php:1430
+msgid "To"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1377
+#: includes/class-wc-taxonomy-discounts-webdados.php:1436
+msgid "ID"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1379
+msgid "For developers"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1390
+#: includes/class-wc-taxonomy-discounts-webdados.php:1609
+msgid "Save"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1414
+msgid "Discount rules"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1423
+msgid "Pri."
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1425
+#: includes/class-wc-taxonomy-discounts-webdados.php:1636
+msgid "Term"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1427
+msgid "Type"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1428
+msgid "Dis. coupons"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1473
+msgid "Edit"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1477
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1487
+msgid "All users"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1490
+msgid "Logged-in users"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1510
+#, php-format
+msgid "From <strong>%d</strong> bought, <strong>%d%%</strong> discount"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1512
+#, php-format
+msgid "<strong>%d%%</strong> discount"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1514
+msgid "aggr. var."
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1550
+msgid "Cancel"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1567
+msgid "Do not aggr. var."
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1568
+msgid "Aggr. var."
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1620
+msgid "No Taxonomy/Term based discounts created yet"
+msgstr ""
+
+#: includes/class-wc-taxonomy-discounts-webdados.php:1651
+msgid "No terms available"
+msgstr ""
+
+#: taxonomy-discounts-woocommerce.php:47
+msgid ""
+"<strong>Taxonomy/Term and Role based Discounts for WooCommerce</strong> is "
+"enabled but not effective. It requires <strong>WooCommerce</strong> in "
+"order to work."
+msgstr ""
